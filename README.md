@@ -1,3 +1,16 @@
+### 👋 Hi, I'm Muwatta!
+🔭 I’m currently Cooking🧑‍🍳
+🌱 I’m currently learning Nodejs, TypeScript, mySQL and Mongodb
+👯 I’m looking to collaborate on Open Source and Frontend Projects
+🤔 I’m open to React Frontend Gigs
+💬 Ask me about Technology and Personal Development
+📫 How to reach me: abdullahmusliudeen@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I can complete 20 reps of push-ups in one set💪
+
+### About Me:
+With year of dedicated experience, I have honed my skills in leveraging AI and cutting-edge technologies like React, Tailwind, Javascript, Typescript, and more. My focus lies in crafting exceptional frontend web applications, ensuring a seamless user experience.
+
 ### 🚀 Tech Stack
 
 **Frontend:**
