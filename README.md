@@ -15,3 +15,7 @@
 
 **Cloud:**
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### 📌 Top Contributed Repositories
+- [Repo One](https://github.com/Muwatta/hngx-stage2-ticket-generator.git) - A basic App for generating event ticket
+- [Repo Two](https://github.com/Muwatta/Animal-Speed-Clicker-Game.git) - A brief randon speed clicker game for kids to master animals.
