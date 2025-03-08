@@ -28,7 +28,6 @@ With a year of dedicated experience, I have honed my skills in leveraging AI and
 ### 📌 Top Contributed Repositories
 - [Repo One](https://github.com/Muwatta/hngx-stage2-ticket-generator.git) - A basic app for generating event tickets  
 - [Repo Two](https://github.com/Muwatta/Animal-Speed-Clicker-Game.git) - A brief random speed clicker game for kids to master animals.  
-- [Repo Three](https://github.com/Muwatta/new-project.git) - *Your new project description here*  
 
 ### Connect with Me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/MusliudeenAbdu1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-musliudeen-64435a239/) [![Facebook](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://web.facebook.com/profile.php?id=100085888534291)
