@@ -70,7 +70,7 @@ QR-based event ticket system using **React, Tailwind, Firebase**.
 ## Achievements
 
 - Mentored **100+ students** in coding via bootcamps and workshops  
-- AWS Cloud Practitioner Certified  
+- AWS Cloud Practitioner  
 - ALX Professional Development Skills for the Digital Age  
 - STEMPedia certification in AI, ML, Robotics  
 - Contributor to open-source projects  
