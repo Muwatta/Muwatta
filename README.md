@@ -1,93 +1,108 @@
-# 👋 Hi, I'm Muwatta!  
+# Hi, I'm Muwatta
 
-🌟 **Frontend Developer | Educator | Builder of Real-World Tech Solutions**  
-🚀 Passionate about creating impactful web apps, training students, and contributing to innovative projects.  
-🌱 Currently expanding my skills into **Full-Stack Development with Python (Django/FastAPI) & Databases (PostgreSQL, MySQL, MongoDB)**  
-👯 Open to **open-source collaborations** and **freelance gigs**  
-🤝 Seeking opportunities in **Frontend & Full-Stack development**  
-📧 Reach me at: [abdullahmusliudeen@gmail.com](mailto:abdullahmusliudeen@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile) 
+[![Email](https://img.shields.io/badge/Email-abdullahmusliudeen@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmusliudeen@gmail.com)
 
 ---
 
-## 📖 About Me  
+## About Me
 
-I’m a **Frontend Developer & Tech Educator** with a mission to **make tech education practical and accessible**.  
+I am a **Frontend & Backend Developer** with a passion for building scalable, real-world web applications. I also mentor students and create hands-on learning experiences.  
 
-- Founder of **Algorise Tech Explorers**, where I train secondary school students in coding, robotics, Scratch, and AI.  
-- Experienced in **building client portfolios, interactive learning platforms, and IoT-driven apps**.  
-- Participated in **hackathons**, including:  
-  - 🏆 **Hack4Livestock** → building an **LMS + livestock health monitoring system** integrating Arduino sensors with a web interface.  
-  - 💡 National **Girls in ICT Innovation Pitch** → presenting a web solution for agritech & education.  
-- Currently working on a **modern full-stack school website** with features for **student management, payments, and analytics**.  
-- Love mentoring, hosting bootcamps, and creating hands-on learning experiences for beginners.  
+- Currently working on **Full-Stack Backend Development** at **ALX Nexus ProDev**, focusing on **Python (Django), API design, database optimization, and secure systems**.  
+- Founder of **[Algorise Tech Explorers](https://algorise.org)** – training students in **coding, robotics, Scratch, and AI**.  
+- Open to **collaborations, freelance projects, and Full-Stack opportunities**.  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack & Skills
+
+### Frontend
+- **HTML5** | **CSS3** | **JavaScript** | **React** | **Next.js** | **TypeScript** | **Tailwind CSS**  
+
+### Backend & Databases
+- **Python** | **Django** | **FastAPI** | **PostgreSQL** | **MySQL** | **MongoDB**  
+
+### Tools & Deployment
+- **Git** | **GitHub** | **VS Code** | **AWS** | **Vercel** | **Netlify**  
+
+### Skills Visualization
 
 **Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
+HTML ▰▰▰▰▰▰▰▰▱ 90%  
+CSS ▰▰▰▰▰▰▰▰▱ 90%  
+JavaScript ▰▰▰▰▰▰▰▰▰▱ 95%  
+React ▰▰▰▰▰▰▰▰▱▱ 85%  
+Next.js ▰▰▰▰▰▰▰▰▱▱ 85%  
+Tailwind CSS ▰▰▰▰▰▰▰▰▱▱ 85%  
 
-**Backend & Databases:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+**Backend:**  
+Python ▰▰▰▰▰▰▰▰▰▱ 95%  
+Django ▰▰▰▰▰▰▰▰▱▱ 85%  
+FastAPI ▰▰▰▰▰▰▰▱▱▱ 70%  
+Databases (SQL/NoSQL) ▰▰▰▰▰▰▰▰▱▱ 85%  
 
-**Tools & Deployment:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
+**Tools & DevOps:**  
+Git/GitHub ▰▰▰▰▰▰▰▰▱▱ 85%  
+VS Code ▰▰▰▰▰▰▰▰▱▱ 85%  
+AWS/Vercel/Netlify ▰▰▰▰▰▰▱▱▱▱ 65%  
 
 ---
 
-## 📌 Featured Projects  
+## Featured Projects
 
-- **[Smart Perishable Goods Marketplace](https://github.com/YOUR_REPO)**  
-  🛒 Full-stack web app reducing food waste with **Next.js + IoT data integration**.  
+**Smart Perishable Goods Marketplace**  
+Full-stack web app reducing food waste with **Next.js** + **IoT integration**.  
 
-- **[Hack4Livestock LMS & Health Monitoring](https://github.com/YOUR_REPO)**  
-  🐄 Arduino + Web platform for **farmers to monitor livestock health and track learning progress**.  
+**Hack4Livestock LMS & Health Monitoring**  
+Arduino + Web platform for farmers to **monitor livestock health** and track learning.  
 
-- **[Client Portfolio Website](https://github.com/YOUR_REPO)**  
-  🌐 Professional portfolio tailored for a client with **Next.js + Tailwind**.  
+**Client Portfolio Website**  
+Professional portfolio built with **Next.js + Tailwind CSS**.  
 
-- **[Animal Speed Clicker Game](https://github.com/Muwatta/Animal-Speed-Clicker-Game.git)**  
-  🎮 Fun **JavaScript reflex game** helping kids learn about animals.  
+**Animal Speed Clicker Game**  
+Interactive JavaScript game teaching children about animals.  
 
-- **[HNGX Ticket Generator](https://github.com/Muwatta/hngx-stage2-ticket-generator.git)**  
-  🎟️ QR-based event ticket generator with **React, Tailwind, Firebase**.  
+**HNGX Ticket Generator**  
+QR-based event ticket system using **React, Tailwind, Firebase**.  
 
----
-
-## 🏆 Achievements & Contributions  
-
-- 👨🏽‍🏫 Trained **100+ students** in coding through **bootcamps & workshops**.  
-- 📜 Earned **AWS Cloud Practitioner Certification**.  
-- 📜 Earned **ALX Professional Development Skills for the Digital Age**.  
-- 📜 Earned **STEMPedia on AI * ML, Robotics**.  
-- 🤝 Contributed to **open-source projects** and community-driven initiatives.  
-- 🚀 Regularly mentor students in **Scratch, JavaScript, C++ and Python**.  
+**ALX Backend Projects (Nexus ProDev)**  
+- Developed **E-commerce Backend** with **secure APIs**, relational DB design, and performance optimization.  
+- Implemented **caching and query optimization** for real-world scalable apps.  
+- Worked on **Airbnb & Travel App clones**, focusing on **backend logic, DB relationships, and API integration**.  
 
 ---
 
-## 🔗 Connect with Me  
+## Achievements
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/MusliudeenAbdu1)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-musliudeen-64435a239/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100085888534291)  
+- Mentored **100+ students** in coding through bootcamps and workshops  
+- AWS Cloud Practitioner Certified  
+- ALX Professional Development Skills for the Digital Age  
+- STEMPedia: AI, ML, Robotics  
+- Contributor to **open-source projects**  
 
 ---
 
-🚀 **Always building. Always teaching. Always learning.**
+## Hackathons & Competitions
+
+- **Hack4Livestock** – LMS + livestock health monitoring  
+- **National Girls in ICT Innovation Pitch** – Web solution for agritech & education  
+
+---
+
+## GitHub Stats
+
+[![Muwatta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muwatta&show_icons=true&theme=radical&hide_title=true&hide_border=true)](https://github.com/Muwatta)  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muwatta&layout=compact&theme=radical&hide_border=true)](https://github.com/Muwatta)  
+
+---
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile) | [Email](mailto:abdullahmusliudeen@gmail.com)
+
+---
+
+> Always building. Always teaching. Always learning.
