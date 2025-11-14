@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a **Frontend & Backend Developer** with a passion for building scalable, real-world web applications. I also mentor students and create hands-on learning experiences.  
+I am a **Frontend & Backend Developer** passionate about building scalable, real-world web applications and mentoring the next generation of developers.  
 
 - Currently working on **Full-Stack Backend Development** at **ALX Nexus ProDev**, focusing on **Python (Django), API design, database optimization, and secure systems**.  
 - Founder of **[Algorise Tech Explorers](https://algorise.org)** – training students in **coding, robotics, Scratch, and AI**.  
@@ -19,44 +19,38 @@ I am a **Frontend & Backend Developer** with a passion for building scalable, re
 ## Tech Stack & Skills
 
 ### Frontend
-- **HTML5** | **CSS3** | **JavaScript** | **React** | **Next.js** | **TypeScript** | **Tailwind CSS**  
+[![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS](https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-95%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![React](https://img.shields.io/badge/React-85%25-lightblue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org) 
+[![Next.js](https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org) 
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-85%25-teal?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com) 
 
 ### Backend & Databases
-- **Python** | **Django** | **FastAPI** | **PostgreSQL** | **MySQL** | **MongoDB**  
+[![Python](https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) 
+[![Django](https://img.shields.io/badge/Django-85%25-green?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com) 
+[![FastAPI](https://img.shields.io/badge/FastAPI-70%25-lightgrey?style=for-the-badge&logo=fastapi&logoColor=black)](https://fastapi.tiangolo.com) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-85%25-blue?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) 
+[![MySQL](https://img.shields.io/badge/MySQL-85%25-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-80%25-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) 
 
 ### Tools & Deployment
-- **Git** | **GitHub** | **VS Code** | **AWS** | **Vercel** | **Netlify**  
-
-### Skills Visualization
-
-**Frontend:**  
-HTML ▰▰▰▰▰▰▰▰▱ 90%  
-CSS ▰▰▰▰▰▰▰▰▱ 90%  
-JavaScript ▰▰▰▰▰▰▰▰▰▱ 95%  
-React ▰▰▰▰▰▰▰▰▱▱ 85%  
-Next.js ▰▰▰▰▰▰▰▰▱▱ 85%  
-Tailwind CSS ▰▰▰▰▰▰▰▰▱▱ 85%  
-
-**Backend:**  
-Python ▰▰▰▰▰▰▰▰▰▱ 95%  
-Django ▰▰▰▰▰▰▰▰▱▱ 85%  
-FastAPI ▰▰▰▰▰▰▰▱▱▱ 70%  
-Databases (SQL/NoSQL) ▰▰▰▰▰▰▰▰▱▱ 85%  
-
-**Tools & DevOps:**  
-Git/GitHub ▰▰▰▰▰▰▰▰▱▱ 85%  
-VS Code ▰▰▰▰▰▰▰▰▱▱ 85%  
-AWS/Vercel/Netlify ▰▰▰▰▰▰▱▱▱▱ 65%  
+[![Git](https://img.shields.io/badge/Git-85%25-orange?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-85%25-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com) 
+[![VS Code](https://img.shields.io/badge/VSCode-85%25-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) 
+[![AWS](https://img.shields.io/badge/AWS-65%25-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) 
+[![Vercel](https://img.shields.io/badge/Vercel-65%25-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) 
+[![Netlify](https://img.shields.io/badge/Netlify-65%25-blue?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com) 
 
 ---
 
 ## Featured Projects
 
 **Smart Perishable Goods Marketplace**  
-Full-stack web app reducing food waste with **Next.js** + **IoT integration**.  
+Full-stack web app reducing food waste with **Next.js + IoT integration**.  
 
 **Hack4Livestock LMS & Health Monitoring**  
-Arduino + Web platform for farmers to **monitor livestock health** and track learning.  
+Arduino + Web platform for farmers to monitor livestock health and track learning.  
 
 **Client Portfolio Website**  
 Professional portfolio built with **Next.js + Tailwind CSS**.  
@@ -68,26 +62,25 @@ Interactive JavaScript game teaching children about animals.
 QR-based event ticket system using **React, Tailwind, Firebase**.  
 
 **ALX Backend Projects (Nexus ProDev)**  
-- Developed **E-commerce Backend** with **secure APIs**, relational DB design, and performance optimization.  
-- Implemented **caching and query optimization** for real-world scalable apps.  
-- Worked on **Airbnb & Travel App clones**, focusing on **backend logic, DB relationships, and API integration**.  
+- E-commerce Backend: secure APIs, relational DB design, query optimization  
+- Airbnb & Travel App clones: backend logic, DB relationships, API integration  
 
 ---
 
 ## Achievements
 
-- Mentored **100+ students** in coding through bootcamps and workshops  
+- Mentored **100+ students** in coding via bootcamps and workshops  
 - AWS Cloud Practitioner Certified  
 - ALX Professional Development Skills for the Digital Age  
-- STEMPedia: AI, ML, Robotics  
-- Contributor to **open-source projects**  
+- STEMPedia certification in AI, ML, Robotics  
+- Contributor to open-source projects  
 
 ---
 
 ## Hackathons & Competitions
 
-- **Hack4Livestock** – LMS + livestock health monitoring  
-- **National Girls in ICT Innovation Pitch** – Web solution for agritech & education  
+- Hack4Livestock – LMS + livestock health monitoring  
+- National Girls in ICT Innovation Pitch – Web solution for agritech & education  
 
 ---
 
