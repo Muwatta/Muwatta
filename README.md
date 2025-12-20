@@ -69,6 +69,7 @@ Open to **backend, full-stack, and remote opportunities**.
 * AWS Cloud Practitioner
 * ALX Professional Development Skills for the Digital Age
 * STEMPedia certification in AI, ML, Robotics
+* ProDev Backend ALX
 
 ---
 
