@@ -1,4 +1,4 @@
-# Hi, I'm Abdullahi Oladipupo Musliudeen👋
+# Hi, I'm Abdullahi Oladipupo Musliudeen 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullahi-musliudeen-64435a239/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x)](https://twitter.com/MusliudeenAbdu1)
@@ -38,9 +38,9 @@ Founder of **Algorise Tech Explorers**, training students in coding, AI, and rob
 | Project | What it is | Stack |
 |---|---|---|
 | [**NexusLMS**](https://github.com/Muwatta/nexuslms) | Full-stack LMS — 5 user roles, auto-graded quizzes, Paystack payments, React frontend | Django · DRF · React · TypeScript · PostgreSQL |
-| [**ShopCore**](https://github.com/Muwatta/e-shop) | E-commerce backend — JWT auth, Redis caching, async tasks, CI/CD | Django · Celery · RabbitMQ · Docker |
-| [**NexTalk**](https://github.com/Muwatta/alx-backend-python) | Real-time messaging API — signals, custom ORM managers, nested routing | Django · DRF · PostgreSQL |
-| [**AgroGuard**](https://github.com/Muwatta/agroguard) | AI crop protection system — computer vision, ML disease classification, advisory engine | Python · OpenCV · Flask |
+| [**ShopCore**](https://github.com/Muwatta/ShopCore) | E-commerce backend — JWT auth, Redis caching, async tasks, CI/CD · [**Live ↗**](https://alx-project-nexus-ng70.onrender.com) | Django · Celery · RabbitMQ · Docker |
+| [**NexTalk**](https://github.com/Muwatta/NexTalk) | Real-time messaging API — signals, custom ORM managers, nested routing | Django · DRF · PostgreSQL |
+| [**AgroGuard**](https://github.com/Muwatta/agroguard) | AI crop protection — computer vision, ML disease classification, advisory engine | Python · OpenCV · Flask |
 
 ---
 
