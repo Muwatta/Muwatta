@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-musliudeen-64435a239)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MusliudeenAbdu1)
 [![Email](https://img.shields.io/badge/Email-abdullahmusliudeen@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmusliudeen@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-muwatta.netlify.app-0A66C2?style=for-the-badge)](https://muwatta.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muwatta.netlify.app-0A66C2?style=for-the-badge)](https://iamabdullahi.netlify.app/)
 
 ---
 
