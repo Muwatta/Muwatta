@@ -1,4 +1,4 @@
-# Hi, I'm Abdullahi (Muwatta) 👋
+# Hi, I'm Abdullahi Oladipupo Musliudeen👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullahi-musliudeen-64435a239/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x)](https://twitter.com/MusliudeenAbdu1)
