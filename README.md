@@ -29,7 +29,7 @@ Founder of **Algorise Tech Explorers**, training students in coding, AI, and rob
 `React` `TypeScript` `Next.js` `TailwindCSS`
 
 **DevOps & Tools**
-`Docker` `GitHub Actions` `CI/CD` `Git` `AWS`
+`Docker` `GitHub Actions` `CI/CD` `Git` 
 
 ---
 
