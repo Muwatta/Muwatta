@@ -13,7 +13,7 @@ Full Stack Engineer specializing in Python, Django, and React — building produ
 
 Founder of **Algorise Tech Explorers**, training students in coding, AI, and robotics across Lagos.
 
-- 🎓 ALX ProDev Backend Engineering — Capstone Graduate
+- 🎓 ALX ProDev Backend Engineering
 - 🤖 Building at the intersection of backend systems and AI/ML
 - 🧑‍🏫 Mentored 100+ students through bootcamps and workshops
 - 🌍 Open to full-stack, backend, and remote roles
